@@ -1,0 +1,18 @@
+// Tutorial and Basics of printing to console and writing to console
+
+// Zmiana wyglądu konsoli/terminala
+Console.Title = "Terminal UwU"; // Zmiana nazwy okna terminala
+Console.ForegroundColor = ConsoleColor.Green;   // Zmiana koloru tekstu w terminalu
+Console.WindowHeight = 40;  // Zmiana ilości linii wyświetlanych na start w terminalu
+
+// MAIN
+Console.WriteLine("Hello, what's Your name?");
+Console.ReadKey();
+Console.WriteLine("Hi, I am RX9000.\nI am an AI sent from the future.\nWhat's Your favorite color?");
+Console.ReadKey();
+Console.WriteLine("Nice! Mine is 001010111001010101.");
+
+Variables
+Console.WriteLine("What is Your name?");
+string userName = Console.ReadLine();
+Console.WriteLine("Hello " + userName + ", nice to meet You!");

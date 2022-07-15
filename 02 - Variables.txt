@@ -1,0 +1,13 @@
+int num01, num02;
+int result;
+
+Console.WriteLine("Input a number: ");
+num01 = Convert.ToInt32(Console.ReadLine()); // Console.ReadLine() pobiera string. Musimy sconvertować string do int
+Console.Write("Input a second number: ");
+num02 = Convert.ToInt32(Console.ReadLine());
+result = num01 * num02;
+
+Console.WriteLine("The result of " + num01 + " * " + num02 + " = " + result + ".");
+
+// Wait before closing
+Console.ReadKey();
