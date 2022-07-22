@@ -1,0 +1,80 @@
+// Arrays
+
+string[] favourites = {"Kaisa", "Vayne", "Lucian", "Jinx"};
+
+for (int i = 0; i < favourites.Length; i++)
+{
+    int rank = i + 1;
+    Console.WriteLine(rank + ". " + favourites[i]);
+}
+
+// Empty arrawy to take input from the user
+string[] champs = new string[4];
+Console.WriteLine("type in four LoL Champs: ");
+for(int i = 0; i < 4; i++)
+{
+    champs[i] = Console.ReadLine();
+}
+
+Console.WriteLine("Here they are alphabetically: ");
+
+Array.Sort(champs);
+for (int i = 0; i < champs.Length; i++)
+{
+    Console.WriteLine(champs[i]);
+}
+
+Lists = do not need a fixed lenght
+List Creation
+List<string> shoppingList = new List<string>();
+
+// Adding to a list
+shoppingList.Add("Dreams");
+shoppingList.Add("Miracles");
+shoppingList.Add("Rainbows");
+shoppingList.Add("Pony");
+
+for (int i = 0; i < shoppingList.Count; i++)
+{
+    Console.WriteLine(shoppingList[i]);
+}
+
+// Removing element from a list
+shoppingList.Remove("Dreams");
+// Remove precise index from a list
+shoppingList.RemoveAt(1);
+
+Console.WriteLine("----------");
+
+for (int i = 0; i < shoppingList.Count; i++)
+{
+    Console.WriteLine(shoppingList[i]);
+}
+
+Registering students to a class
+Console.WriteLine("How many students are in the class? ");
+Getting the number of students to create a fixed size array
+int studentCount = Convert.ToInt32(Console.ReadLine());
+
+Creating a fixed size array
+string[] students = new string[studentCount];
+
+Adding students
+Console.WriteLine("Type the names of the students: ");
+for (int i = 0; i < studentCount; i++)
+{
+    students[i] = Console.ReadLine();
+}
+
+Showing the names of the students alphabetically
+Console.WriteLine("----------");
+Array.Sort(students);
+
+for (int i = 0; i < studentCount; i++)
+{
+    Console.WriteLine(students[i]);
+}
+
+Wait before closing
+Console.WriteLine("\nPress enter to close the console!");
+Console.ReadKey();

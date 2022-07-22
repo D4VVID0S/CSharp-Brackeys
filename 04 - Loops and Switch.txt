@@ -1,0 +1,73 @@
+Computer picks a random number
+User inputs a number
+Conputer tells if it is correct
+
+// For loop
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i + 1);
+}
+
+Power of 2
+
+// Manual version
+Console.WriteLine("Input the power of 2 You want to calculate: ");
+int pow = Convert.ToInt32(Console.ReadLine());
+int res = 2;
+for (int i = 1; i <= pow; i++)
+{
+    res = res * 2;
+    Console.WriteLine(res);
+}
+
+Console.WriteLine("How many cool numbers do You want? ");
+int count = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 1; i <= count; i++)
+{
+    double result = Math.Pow(2, i);
+    Console.WriteLine(result);
+}
+
+While loop
+
+// Define a random number generator
+Random numberGenerator = new Random();
+
+int roll = 0;
+int attempts = 0;
+
+Console.WriteLine("Press enter to roll the die: ");
+
+while (roll != 6)
+{
+    Console.ReadKey();
+    roll = numberGenerator.Next(1, 7);
+    Console.WriteLine("You rolled: " + roll);
+    attempts++;
+}
+
+Console.WriteLine("It took You " + attempts + " attempts.");
+
+Define a random number generator
+Random numberGen = new Random();
+
+int dice1 = 0;
+int dice2 = 1;
+int attempts = 0;
+
+Console.WriteLine("Press enter to roll the dices:");
+
+while (dice1 != dice2)
+{
+    Console.ReadKey();
+    dice1 = numberGen.Next(1, 7);
+    dice2 = numberGen.Next(1, 7);
+    Console.WriteLine("First dice: " + dice1);
+    Console.WriteLine("Second dice: " + dice2 + "\n");
+    attempts++;
+}
+
+Console.WriteLine("It took You " + attempts + " attempts.");
+Wait before closing
+Console.ReadKey();
