@@ -1,0 +1,16 @@
+static int WordsInSentenceCount(string sentence)
+{
+    Console.WriteLine("Write a sentence: ");
+    sentence = Console.ReadLine();
+    
+    return sentence.Split(' ').Length;
+}
+
+// Main
+string sentence = "abc";
+int howManyWords = WordsInSentenceCount(sentence);
+
+Console.WriteLine("There are " + howManyWords + " words in Your sentence.");
+
+// Wait before closing
+Console.ReadKey();

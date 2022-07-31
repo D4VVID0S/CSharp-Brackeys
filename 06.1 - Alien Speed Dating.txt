@@ -1,0 +1,17 @@
+void meetAlien()
+{
+    Random numberGen = new Random();
+
+    string name = "X-" + numberGen.Next(10, 9999);
+    int age = numberGen.Next(10, 500);
+
+    Console.WriteLine("Hi, I'm " + name);
+    Console.WriteLine("I'm " + age + " years old.");
+    Console.WriteLine("Ohh, and I'm an alien :).");
+}
+
+// Main
+meetAlien();
+
+// Wait before closing
+Console.ReadKey();

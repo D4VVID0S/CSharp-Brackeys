@@ -1,0 +1,11 @@
+void PrintRandomNumber()
+{
+    Random numGen = new Random();
+    int number = numGen.Next(1, 10);
+    Console.WriteLine(number);
+}
+
+PrintRandomNumber();
+
+// Wait before closing
+Console.ReadKey();

@@ -1,0 +1,21 @@
+static int Multiply (int num01, int num02)
+{
+    int result = num01 * num02;
+    return result;
+}
+
+// Main
+int result = Multiply(3, 8);
+Console.WriteLine("The result is: " + result);
+
+if (result % 2 == 0)
+{
+    Console.WriteLine("The number is even.");
+}
+else
+{
+    Console.WriteLine("The number is odd.");
+}
+
+// Wait before closing
+Console.ReadKey();
