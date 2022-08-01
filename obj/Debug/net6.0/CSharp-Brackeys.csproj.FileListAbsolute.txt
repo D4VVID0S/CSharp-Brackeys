@@ -58,3 +58,18 @@ C:\Visual Studio Code programs\CSharp-Brackeys-2\obj\Debug\net6.0\refint\CSharp-
 C:\Visual Studio Code programs\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.pdb
 C:\Visual Studio Code programs\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.genruntimeconfig.cache
 C:\Visual Studio Code programs\CSharp-Brackeys-2\obj\Debug\net6.0\ref\CSharp-Brackeys.dll
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.pdb
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.csproj.AssemblyReference.cache
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.AssemblyInfoInputs.cache
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.AssemblyInfo.cs
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.dll
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\refint\CSharp-Brackeys.dll
+D:\VSCodeProjects\CSharp-Brackeys-2\bin\Debug\net6.0\CSharp-Brackeys.exe
+D:\VSCodeProjects\CSharp-Brackeys-2\bin\Debug\net6.0\CSharp-Brackeys.deps.json
+D:\VSCodeProjects\CSharp-Brackeys-2\bin\Debug\net6.0\CSharp-Brackeys.runtimeconfig.json
+D:\VSCodeProjects\CSharp-Brackeys-2\bin\Debug\net6.0\CSharp-Brackeys.dll
+D:\VSCodeProjects\CSharp-Brackeys-2\bin\Debug\net6.0\CSharp-Brackeys.pdb
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\CSharp-Brackeys.genruntimeconfig.cache
+D:\VSCodeProjects\CSharp-Brackeys-2\obj\Debug\net6.0\ref\CSharp-Brackeys.dll

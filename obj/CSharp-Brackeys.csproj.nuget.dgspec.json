@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Visual Studio Code programs\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {}
+    "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {}
   },
   "projects": {
-    "C:\\Visual Studio Code programs\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {
+    "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Visual Studio Code programs\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
+        "projectUniqueName": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
         "projectName": "CSharp-Brackeys",
-        "projectPath": "C:\\Visual Studio Code programs\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
-        "packagesPath": "C:\\Users\\MeatBallZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Visual Studio Code programs\\CSharp-Brackeys-2\\obj\\",
+        "projectPath": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
+        "packagesPath": "C:\\Users\\matix\\.nuget\\packages\\",
+        "outputPath": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MeatBallZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\matix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
