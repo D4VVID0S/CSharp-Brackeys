@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {}
+    "/Users/matteodawidecatalani/Desktop/LocalRepo/C#/CSharp-Brackeys/CSharp-Brackeys.csproj": {}
   },
   "projects": {
-    "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj": {
+    "/Users/matteodawidecatalani/Desktop/LocalRepo/C#/CSharp-Brackeys/CSharp-Brackeys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
+        "projectUniqueName": "/Users/matteodawidecatalani/Desktop/LocalRepo/C#/CSharp-Brackeys/CSharp-Brackeys.csproj",
         "projectName": "CSharp-Brackeys",
-        "projectPath": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\CSharp-Brackeys.csproj",
-        "packagesPath": "C:\\Users\\matix\\.nuget\\packages\\",
-        "outputPath": "D:\\VSCodeProjects\\CSharp-Brackeys-2\\obj\\",
+        "projectPath": "/Users/matteodawidecatalani/Desktop/LocalRepo/C#/CSharp-Brackeys/CSharp-Brackeys.csproj",
+        "packagesPath": "/Users/matteodawidecatalani/.nuget/packages/",
+        "outputPath": "/Users/matteodawidecatalani/Desktop/LocalRepo/C#/CSharp-Brackeys/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\matix\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/matteodawidecatalani/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,7 +43,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -52,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
